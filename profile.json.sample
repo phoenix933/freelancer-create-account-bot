@@ -1,0 +1,11 @@
+{
+    "firstName":"",
+    "lastName":"",
+    "birth":"01/01/1900",
+    "heading": "",
+    "description": "",
+    "skills": [
+        "PHP",
+        "HTML"
+    ]
+}
