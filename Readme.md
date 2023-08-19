@@ -27,14 +27,11 @@
 		<a href="https://github.com/seniorcoder72/seniorcoder72.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
 	</p>
 	
-	<p>
- 
  ![Contributors](https://img.shields.io/github/contributors/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
  ![Forks](https://img.shields.io/github/forks/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
  ![Stars](https://img.shields.io/github/stars/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
  ![Issues](https://img.shields.io/github/issues/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
  ![Repo Size](https://img.shields.io/github/repo-size/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
-	</p>
 	<p>
 		<img alt="Github Deployment Status" src="https://github.com/seniorcoder72/freelancer-create-account-bot/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
 		<img src="https://github.com/seniorcoder72/freelancer-create-account-bot/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
