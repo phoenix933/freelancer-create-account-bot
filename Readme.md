@@ -41,12 +41,7 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://seniorcoder72.github.io/">
-    <img src="src/screenshots/screenshot.gif" alt="landing page"/>
-  </a>
-</p>
-
+![2023-08-19_18-40-58](https://github.com/seniorcoder72/freelancer-create-account-bot/assets/132613676/e62c9b6b-4b1f-491d-b894-201263ffd8a0)
 
 ## Built With :package:
 
