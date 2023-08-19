@@ -27,15 +27,15 @@
 		<a href="https://github.com/seniorcoder72/seniorcoder72.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
 	</p>
 	<p>
-		<img src="https://img.shields.io/github/contributors/seniorcoder72/seniorcoder72.github.io.svg?styles/default/yes.svg" alt="Contributors"/> • 
-		<img src="https://img.shields.io/github/forks/seniorcoder72/seniorcoder72.github.io.svg?styles/default/yes.svg" alt="Forks"/> • 
-		<img src="https://img.shields.io/github/stars/seniorcoder72/seniorcoder72.github.io.svg?styles/default/yes.svg" alt="Stars"/> •
-		<img src="https://img.shields.io/github/issues/seniorcoder72/seniorcoder72.github.io.svg?styles/default/yes.svg" alt="Issues"/> •
-		<img alt="Repo Size" src="https://img.shields.io/github/repo-size/seniorcoder72/seniorcoder72.github.io"/>
+		<img src="https://img.shields.io/github/contributors/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg" alt="Contributors"/> • 
+		<img src="https://img.shields.io/github/forks/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg" alt="Forks"/> • 
+		<img src="https://img.shields.io/github/stars/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg" alt="Stars"/> •
+		<img src="https://img.shields.io/github/issues/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg" alt="Issues"/> •
+		<img alt="Repo Size" src="https://img.shields.io/github/repo-size/seniorcoder72/freelancer-create-account-bot"/>
 	</p>
 	<p>
-		<img alt="Github Deployment Status" src="https://github.com/seniorcoder72/seniorcoder72.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
-		<img src="https://github.com/seniorcoder72/seniorcoder72.github.io/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
+		<img alt="Github Deployment Status" src="https://github.com/seniorcoder72/freelancer-create-account-bot/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
+		<img src="https://github.com/seniorcoder72/freelancer-create-account-bot/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
 	</p>
 </div>
 
