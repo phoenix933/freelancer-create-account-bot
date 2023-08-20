@@ -115,13 +115,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://seniorcoder72.github.io"><img src="https://avatars.githubusercontent.com/u/132613676?v=4" width="100px;" alt="Senior Coder"/><br /><sub><b>Senior Coder</b></sub></a><br /><a href="https://github.com/seniorcoder72/freelancer-create-account-bot/commits?author=seniorcoder72" title="Code">💻</a> <a href="#ideas-seniorcoder72" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/seniorcoder72/freelancer-create-account-bot/commits?author=seniorcoder72" title="Tests">⚠️</a> <a href="#maintenance-seniorcoder72" title="Maintenance">🚧</a> <a href="https://github.com/seniorcoder72/freelancer-create-account-bot/commits?author=seniorcoder72" title="Documentation">📖</a> <a href="#design-seniorcoder72" title="Design">🎨</a> <a href="https://github.com/seniorcoder72/freelancer-create-account-bot/pulls?q=is%3Apr+reviewed-by%3Aseniorcoder72" title="Reviewed Pull Requests">👀</a> <a href="#content-seniorcoder72" title="Content">🖋</a> <a href="#a11y-seniorcoder72" title="Accessibility">️️️️♿️</a></td>
-    </tr>
-  </tbody>
-</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
