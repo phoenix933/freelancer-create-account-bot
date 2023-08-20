@@ -106,28 +106,15 @@ Feel free to check the [Issues page](https://github.com/seniorcoder72/freelancer
 
 ## Contributors ✨
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/seniorcoder72"><img src="https://avatars.githubusercontent.com/u/132613676?v=4?s=100" width="100px;" alt="Senior Developer"/><br /><sub><b>Senior Developer</b></sub></a><br /><a href="https://github.com/seniorcoder72/freelancer-create-account-bot/commits?author=seniorcoder72" title="Code">💻</a> <a href="#content-seniorcoder72" title="Content">🖋</a> <a href="https://github.com/seniorcoder72/freelancer-create-account-bot/commits?author=seniorcoder72" title="Documentation">📖</a> <a href="#data-seniorcoder72" title="Data">🔣</a> <a href="#example-seniorcoder72" title="Examples">💡</a> <a href="#ideas-seniorcoder72" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-seniorcoder72" title="Project Management">📆</a> <a href="https://github.com/seniorcoder72/freelancer-create-account-bot/pulls?q=is%3Apr+reviewed-by%3Aseniorcoder72" title="Reviewed Pull Requests">👀</a> <a href="#tool-seniorcoder72" title="Tools">🔧</a> <a href="#tutorial-seniorcoder72" title="Tutorials">✅</a> <a href="#video-seniorcoder72" title="Videos">📹</a></td>
-    </tr>
-  </tbody>
-</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 
