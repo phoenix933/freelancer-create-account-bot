@@ -17,7 +17,7 @@
 	<p align="center">
 		This is the source code for my Freelancer account creating bot.
 		<br/>
-		<a href="https://github.com/seniorcoder72/seniorcoder72.github.io"><strong>Explore the docs »</strong></a>
+		<a href="https://seniorcoder72.github.io"><strong>Explore the docs »</strong></a>
 		<br/>
 		<br/>
 		<a href="https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif">View Demo</a>
