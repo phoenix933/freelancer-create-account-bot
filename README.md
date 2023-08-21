@@ -29,6 +29,8 @@
 	
  ![Contributors](https://img.shields.io/github/contributors/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
  ![Forks](https://img.shields.io/github/forks/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
+ ![GitHub commits since latest release](https://img.shields.io/github/commits-since/seniorcoder72/freelancer-create-account-bot/v1.0)
+ ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/seniorcoder72/freelancer-create-account-bot)
  ![Stars](https://img.shields.io/github/stars/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
  ![Issues](https://img.shields.io/github/issues/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
  ![Repo Size](https://img.shields.io/github/repo-size/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
