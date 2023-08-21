@@ -20,11 +20,11 @@
 		<a href="https://github.com/seniorcoder72/seniorcoder72.github.io"><strong>Explore the docs »</strong></a>
 		<br/>
 		<br/>
-		<a href="https://seniorcoder72.github.io/">View Demo</a>
+		<a href="https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif">View Demo</a>
 		·
-		<a href="https://github.com/seniorcoder72/seniorcoder72.github.io/issues/new?assignees=seniorcoder72&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
+		<a href="https://github.com/seniorcoder72/freelancer-create-account-bot/issues/new?assignees=seniorcoder72&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
 		·
-		<a href="https://github.com/seniorcoder72/seniorcoder72.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
+		<a href="https://github.com/seniorcoder72/freelancer-create-account-bot/issues/new?assignees=seniorcoder72&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
 	</p>
 	
  ![Contributors](https://img.shields.io/github/contributors/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
