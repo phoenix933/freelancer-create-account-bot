@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	<a href="https://seniorcoder72.github.io/">freelancer-create-account-bot</a> - v1.0
+	<a href="https://seniorcoder72.github.io/">freelancer-create-account-bot</a> - v1.1
 	<p align="center">
 		<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 		<img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />        

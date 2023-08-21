@@ -1,1 +1,1 @@
-py bot_create.py
+py bot_create.py --t freelancer
