@@ -34,10 +34,6 @@
  ![Stars](https://img.shields.io/github/stars/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
  ![Issues](https://img.shields.io/github/issues/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
  ![Repo Size](https://img.shields.io/github/repo-size/seniorcoder72/freelancer-create-account-bot.svg?styles/default/yes.svg)
-	<p>
-		<img alt="Github Deployment Status" src="https://github.com/seniorcoder72/freelancer-create-account-bot/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
-		<img src="https://github.com/seniorcoder72/freelancer-create-account-bot/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
-	</p>
 </div>
 
 <br/>
