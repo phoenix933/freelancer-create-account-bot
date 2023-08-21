@@ -11,7 +11,7 @@
 
 <div align="center">
 	<a href="https://github.com/seniorcoder72/seniorcoder72.github.io">
-		<img src="https://avatars.githubusercontent.com/u/132613676?v=4" alt="Logo" width="80" height="80"/>
+		<img src="https://avatars.githubusercontent.com/u/132613676?v=4" alt="Logo" width="200" height="200"/>
 	</a>
 	<h3 align="center">Senior Coder (seniorcoder72) </h3>
 	<p align="center">
