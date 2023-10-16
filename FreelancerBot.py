@@ -8,7 +8,6 @@ class FreelancerBot:
     def __init__(self):
         pass
     def create(self):        
-        
         profile = None
         with open("./profile.json", "r+") as file:
             profile = json.load(file)["freelancer"]
@@ -35,27 +34,16 @@ class FreelancerBot:
         pag.hotkey("ctrl", "shift", "tab")
 
         time.sleep(0.5)
-        
-        
-        
-        pag.click(848,396)        
-        pag.typewrite(profile["firstName"])
-        pag.click(1043,396)        
-        pag.typewrite(profile["lastName"])
-        
-        
-        
-        
-        pag.click(932,477)
+        pag.click(870, 396)
         pag.hotkey("ctrl", "v")
-        pag.click(942,555)
+        pag.click(859, 477)
         pag.typewrite("pwd1234!@#$")
         time.sleep(0.5)
-        pag.click(807,624)
+        pag.click(807, 544)
         time.sleep(0.5)
-        pag.click(807,624)
+        pag.click(807, 544)
         time.sleep(0.5)
-        pag.click(957,694)
+        pag.click(959, 611)
 
         # Page 2
         time.sleep(1.5)
@@ -86,11 +74,11 @@ class FreelancerBot:
         pag.click(1093, 742)
         # Page 4
         time.sleep(2)
-        # pag.click(784, 614)
-        # pag.typewrite(profile["firstName"])
-        # # time.sleep(0.5)
-        # pag.click(775, 712)
-        # pag.typewrite(profile["lastName"])
+        pag.click(784, 614)
+        pag.typewrite(profile["firstName"])
+        # time.sleep(0.5)
+        pag.click(775, 712)
+        pag.typewrite(profile["lastName"])
         # time.sleep(2)
         pag.click(1189, 848)
         # Page 5
@@ -125,7 +113,7 @@ class FreelancerBot:
         pag.hotkey("ctrl", "tab")
         time.sleep(4)
         pag.click(525, 211)
-        time.sleep(4)
+        time.sleep(3)
         pag.click(653, 454)
         # Emali Verify
         time.sleep(4)
@@ -141,9 +129,9 @@ class FreelancerBot:
         time.sleep(1)
         pag.click(1452, 1015)
         # Page 11
-        time.sleep(2)
+        time.sleep(5)
         pag.click(816, 544)
-        time.sleep(8)
+        time.sleep(5)
         pag.click(1480, 358)  # showcase
 
         pag.alert("Done")
